@@ -1,0 +1,15 @@
+{
+  "name": "yahoo-emails-example",
+  "description": "Yahoo Emails example app",
+  "version": "0.0.1",
+  "private": true,
+  "dependencies": {
+    "express": "~4.x",
+    "express-session": "~1.5.x",
+    "cookie-parser": "~1.3.x",
+    "passport": "~0.2.x",
+    "passport-oauth": "~1.x",
+    "passport-yahoo-oauth": "~0.1.2",
+    "jade": "~1.3.1"
+  }
+}
